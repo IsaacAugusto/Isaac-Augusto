@@ -1,23 +1,16 @@
 # Isaac Augusto Santana Brito
 
-This is my personal portfolio as a game developer.
+This is my personal portfolio as a game developer. 
+I'm a brasilian CS student that make games for almost 1 year.
+To contact me: isaac.augusto@hotmail.com
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personal Projects:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+<p align="center">
+  # Sertão Mission
+</p>
 
 **Bold** and _Italic_ and `Code` text
 
