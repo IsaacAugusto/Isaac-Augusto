@@ -74,6 +74,28 @@ html {
   padding-right: 15px;
   padding-left: 15px; }
 
+
+.pics_in_a_row {
+  display: flex;
+}
+
+.img {
+  position: relative;
+  float: left;
+  width:  100px;
+  height: 100px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+  
+.img1 { flex: 1.7529; }
+.img2 { flex: 1.0000; }
+.img3 { flex: 3.4210; }
+.img4 { flex: 1.5023; }
+.img5 { flex: 0.75; }
+
+
 .col {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
